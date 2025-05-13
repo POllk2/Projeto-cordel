@@ -31,7 +31,6 @@ header > h1{
     font-family: var(--fonte2);
     font-size: 10vw;
     
-
 }
 
 header > p{
@@ -61,7 +60,7 @@ section{
     line-height: 2em;
     padding-left: 35px;
     font-family: var(--fonte3);
-    font-size: 2.8vw;
+    font-size: 1.8vw;
     
 }
 section > p{
