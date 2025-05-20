@@ -14,7 +14,7 @@
 
 html,body{
     background-color: darkgray;
-    min-height: 100vh;
+    min-width: 100vh;
     font-family: var(--fonte1);
 }
 
@@ -78,7 +78,6 @@ section.imagem{
     box-shadow: inset 6px 6px 6px rgba(0, 0, 0, 0.295);
     background-size: cover;
     background-attachment: fixed;
-    max-width: 100vh;
 }
 
 section.imagem > p{
