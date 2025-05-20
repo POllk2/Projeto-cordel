@@ -61,7 +61,6 @@ section{
     padding-left: 35px;
     font-family: var(--fonte3);
     font-size: 1.8vw;
-    
 }
 section > p{
     padding-bottom: 1em;
@@ -79,20 +78,18 @@ section.imagem{
     box-shadow: inset 6px 6px 6px rgba(0, 0, 0, 0.295);
     background-size: cover;
     background-attachment: fixed;
-    
-    
+    max-width: 100vh;
 }
 
 section.imagem > p{
     background-color: rgba(0, 0, 0, 0.432);
     display: inline-block;
-    padding: 30px;
-    text-shadow: 6px 3px 5px black;
+    padding: 10px;
+    text-shadow: 6px 3px 5px rgb(0, 0, 0);
     max-width: 100vw;
 }
 
 section#img01{
-
     background-image: url(imagens/background001.jpg);
     background-position: right center;
 }
@@ -100,8 +97,4 @@ section#img01{
 section#img02{
     background-image: url(imagens/background002.jpg);
     background-position: right center;
-    
 }
-
-
-
